@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+h1{
+    width: 11rem;
+    height: 8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
